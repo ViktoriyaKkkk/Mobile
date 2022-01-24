@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="persons_margin_start">24dp</dimen>
+    <dimen name="persons_margin_end">72dp</dimen>
+    <dimen name="persons_text_size">20sp</dimen>
+    <dimen name="recyclerview_similar_margins">8dp</dimen>
+    <dimen name="up_size">40dp</dimen>
+    <dimen name="up_picture_top_margin">12dp</dimen>
+    <dimen name="up_picture_start_margin">12dp</dimen>
+    <dimen name="up_name_start_margin">16dp</dimen>
+    <dimen name="up_date_start_margin">16dp</dimen>
+    <dimen name="up_name_text_size">16sp</dimen>
+    <dimen name="up_date_text_size">14sp</dimen>
+    <dimen name="up_text__start_end__margin">16dp</dimen>
+    <dimen name="up_text_top_margin">18dp</dimen>
+    <dimen name="up_text_size">16sp</dimen>
+    <dimen name="up_sex__start_bottom__margin">16dp</dimen>
+    <dimen name="up_sex_top_margin">8dp</dimen>
+    <dimen name="up_like_top_margin">8dp</dimen>
+    <dimen name="up_like__end_bottom__margin">16dp</dimen>
+    <dimen name="person_layout">16dp</dimen>
+</resources>
